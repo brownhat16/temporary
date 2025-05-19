@@ -1,18 +1,46 @@
+# FastAPI and web server dependencies
 fastapi
 uvicorn
-pydantic
-pillow
-opencv-python
-numpy
-torch
-requests
-python-dotenv
-loguru
-certifi
-pathlib
-typing_extensions
-pytest
-black
-flake8
 python-multipart
-mypy
+pydantic
+starlette
+
+# Image processing libraries
+opencv-python-headless
+Pillow
+numpy
+
+# Machine learning and AI
+torch==2.1.2
+transformers
+ultralytics
+
+# API and networking
+requests
+aiohttp
+httpx
+
+# Frontend integration
+streamlit
+streamlit-extras
+streamlit-image-comparison
+
+# Data handling and processing
+pandas
+matplotlib
+plotly
+
+# Utility libraries
+python-dotenv
+typing-extensions
+tqdm
+joblib
+cachetools
+
+# Security and authentication
+python-jose
+passlib
+bcrypt
+
+# Development tools
+pytest
