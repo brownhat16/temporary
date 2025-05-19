@@ -1,0 +1,17 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+pydantic==2.11.4
+pillow==10.4.0
+opencv-python==4.8.0.76
+numpy==1.26.4
+torch==2.7.0
+requests==2.32.3
+python-dotenv==1.1.0
+loguru==0.7.3
+certifi==2025.7.1
+pathlib==1.0.1
+typing_extensions==4.12.2
+pytest==8.3.2
+black==24.1.0
+flake8==7.1.1
+mypy==1.13.0
