@@ -4,7 +4,7 @@ pydantic
 pillow
 opencv-python
 numpy
-torch==2.1.2
+torch
 requests
 python-dotenv
 loguru
@@ -14,4 +14,5 @@ typing_extensions
 pytest
 black
 flake8
+python-multipart
 mypy
