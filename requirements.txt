@@ -4,7 +4,7 @@ pydantic
 pillow
 opencv-python
 numpy
-torch
+torch==2.1.2
 requests
 python-dotenv
 loguru
