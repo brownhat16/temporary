@@ -119,7 +119,7 @@ class EnhancedFinancialImageAnalyzer:
                  together_api_key: str,
                  vision_llm_model: str = "together/llama-3-70b-vision",
                  reasoning_llm_model: str = "Qwen/Qwen3-235B-A22B-fp8-tput",
-                 text_llm_model: str = "together/llama-3-8b-instruct",
+                 text_llm_model: str = "nim/meta/llama-3.3-70b-instruct",
                  yolo_model_path: str = "yolov8n.pt",
                  detr_model_name: str = "facebook/detr-resnet-50",
                  use_deyo: bool = False,
