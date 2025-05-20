@@ -6,7 +6,7 @@ import tempfile
 import time
 
 # API base URL (adjust if running remotely)
-API_URL = "http://localhost:8080"
+API_URL = "https://temporary-tuvr.onrender.com"
 
 st.set_page_config(
     page_title="Financial Image Analyzer",
