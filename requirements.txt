@@ -8,7 +8,7 @@ starlette
 # Image processing libraries
 opencv-python-headless
 Pillow
-numpy
+numpy==1.26.4
 
 # Machine learning and AI
 torch==2.1.2
