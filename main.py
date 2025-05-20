@@ -813,7 +813,7 @@ app.add_middleware(
 os.makedirs("temp_uploads", exist_ok=True)
 os.makedirs("visualizations", exist_ok=True)
 
-TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY", "your_default_api_key_here")
+TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY", "ceeabe5b322559bd0fe8a21e18df89860cf31aa2af6e4b31cc60acd299f2d9c0")
 
 analyzer = EnhancedFinancialImageAnalyzer(
     together_api_key=TOGETHER_API_KEY,
